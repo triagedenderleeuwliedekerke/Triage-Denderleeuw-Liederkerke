@@ -6,7 +6,9 @@
 <br>
 <br>
 <br>
-<center>Wij werken **enkel** op afspraak. Een afspraak kan u enkel bekomen **via uw huisarts.**</center>
+<center>
+  Wij werken <b>enkel op afspraak</b>. Een afspraak kan u <u>enkel bekomen via uw huisarts.</u>
+</center>
 <br>
 <br>
 <br>
