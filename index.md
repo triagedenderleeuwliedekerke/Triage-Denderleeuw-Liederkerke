@@ -7,7 +7,7 @@
 <br>
 <br>
 <center>
-  Wij werken <b>enkel op afspraak</b>. Een afspraak kan u <u>enkel bekomen via uw huisarts.</u>
+  Wij werken <b><u>enkel op afspraak</u></b>. Een afspraak kan u <u>enkel bekomen via uw huisarts.</u>
 </center>
 <br>
 <br>
@@ -23,7 +23,8 @@
 
 
 ### Nuttige gegevens:
-
+<br>
+<br>
 ##### Adres:
 
 `Steinfurtdreef 7`
